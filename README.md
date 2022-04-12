@@ -9,4 +9,4 @@ Try it out:
 or py flappy.py [integer 1 to 4]  
 to demo different levels of training from past experiments.
 
-It plays autonomously - but you can optionally press space to control it manually.
+It plays fully autonomously - but you can optionally press space to control it manually.
