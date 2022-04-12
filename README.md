@@ -8,3 +8,5 @@ Try it out:
 3. Run: py flappy.py &nbsp; (random initalization)  
 or py flappy.py [integer 1 to 4]  
 to demo different levels of training from past experiments.
+
+It plays autonomously - but you can optionally press space to control it manually.
